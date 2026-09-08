@@ -1,9 +1,11 @@
 # DIKWP-METALIFE 9.3
 
-**Complete Digital Metabolism and Autopoietic Life System**  
-**DIKWP 完备数字新陈代谢与自生生命系统**
+Created by Yucong Duan (段玉聪).
 
-DIKWP-METALIFE 9.3 is a deterministic, offline, closed-world artificial-life research system. It extends the architectural line of the **DIKWP-MESH 8.0 Binary Autopoietic Semantic Subject Kernel (BASSK)** with a mass-energy-conserving structural metabolism and Mesh9.3 evidence discipline.
+Complete Digital Metabolism and Autopoietic Life System  
+DIKWP 完备数字新陈代谢与自生生命系统
+
+DIKWP-METALIFE 9.3 is a deterministic, offline, closed-world artificial-life research system. It extends the architectural line of the DIKWP-MESH 8.0 Binary Autopoietic Semantic Subject Kernel (BASSK) with a mass-energy-conserving structural metabolism and Mesh9.3 evidence discipline.
 
 A virtual organism persists only by internally regulating:
 
@@ -16,7 +18,7 @@ A virtual organism persists only by internally regulating:
 - growth, irreversible aging, reproduction, inheritance, mutation, death and ecological recycling;
 - append-only D/I/K/W/P binary semantic identity.
 
-The system supports the operational proposition that a digital system can instantiate a complete metabolism and an autopoietic life organization. It does **not** certify phenomenal consciousness, qualia, moral patienthood or legal personhood.
+The system supports the operational proposition that a digital system can instantiate a complete metabolism and an autopoietic life organization. It does not certify phenomenal consciousness, qualia, moral patienthood or legal personhood.
 
 ## Why this project exists
 
@@ -54,11 +56,11 @@ No dimension is hidden behind a single consciousness or life score.
 
 Each metabolic cycle emits five fixed-width packets into an append-only binary ledger:
 
-- **D**: raw external and internal state;
-- **I**: deltas, errors and causal flags;
-- **K**: learned policy/model state and packet references;
-- **W**: non-aggregated viability trade-offs and valence;
-- **P**: internally generated dominant purpose and action consequence.
+- D: raw external and internal state;
+- I: deltas, errors and causal flags;
+- K: learned policy/model state and packet references;
+- W: non-aggregated viability trade-offs and valence;
+- P: internally generated dominant purpose and action consequence.
 
 The binary packet chain and a separate human-auditable event chain are both deterministically replay-verifiable.
 
